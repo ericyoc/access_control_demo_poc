@@ -4,7 +4,6 @@ This project demonstrates six key access control concepts using Python. It aims 
 
 ## Motivating Article
 Yocam, E., Alomari, A., Gawanmeh, A., Mansoor, W. (2023). A privacy-preserving system design for digital presence protection. Computers, Materials & Continua, 75(2), 3091-3110. https://doi.org/10.32604/cmc.2023.032826
-https://www.techscience.com/cmc/v75n2/52026
 
 ## Overview
 
