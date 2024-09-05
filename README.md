@@ -18,7 +18,7 @@ For each concept, the script provides a textual demonstration and a graphical vi
 ## Results
 
 ### Access CONTROL TABLE
-[Access Control Table](https://github.com/ericyoc/access_control_demo_poc/blob/main/access_control_table.txt)
+![](https://github.com/ericyoc/access_control_demo_poc/blob/main/Access_Control_Table.jpg)
 
 ### 1. Access Control Matrix
 ![](https://github.com/ericyoc/access_control_demo_poc/blob/main/access_control_matrix.png)
