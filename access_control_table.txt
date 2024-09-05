@@ -1,0 +1,36 @@
++--------------------------------+--------------------------------+--------------------------------+-----------------------------+
+| Access Control Concept         | Result                         | Explanation                    | Principle                   |
++--------------------------------+--------------------------------+--------------------------------+-----------------------------+
+| Access Control Matrix          | Alice can read file2; Bob can  | Defines access rights for      | Separation of privilege     |
+|                                | read file2; Eve cannot read    | subjects (users) to objects    |                             |
+|                                | file2                          | (files)                        |                             |
++--------------------------------+--------------------------------+--------------------------------+-----------------------------+
+| Linux Access Control           | Alice can write the file; Bob  | Uses file permissions to       | Simplicity and uniformity   |
+|                                | cannot write the file; Eve     | control read/write/execute     |                             |
+|                                | cannot write the file          | access                         |                             |
++--------------------------------+--------------------------------+--------------------------------+-----------------------------+
+| Principle of Least Privilege   | Alice can perform write        | Users are given minimum levels | Minimize potential damage   |
+|                                | action; Bob can perform write  | of access needed for their     |                             |
+|                                | action; Eve cannot perform     | tasks                          |                             |
+|                                | write action (least privilege) |                                |                             |
++--------------------------------+--------------------------------+--------------------------------+-----------------------------+
+| Sandboxing                     | Alice: Sandboxing failed:      | Restricts the environment in   | Isolation and containment   |
+|                                | Restricted module 'os' was     | which certain code can run     |                             |
+|                                | imported; Bob: Sandboxing      |                                |                             |
+|                                | failed: Restricted module 'os' |                                |                             |
+|                                | was imported; Eve: Sandboxing  |                                |                             |
+|                                | failed: Restricted module 'os' |                                |                             |
+|                                | was imported                   |                                |                             |
++--------------------------------+--------------------------------+--------------------------------+-----------------------------+
+| Role-Based Access Control      | Alice (role: admin) can        | Access decisions are based on  | Simplify administration     |
+|                                | perform 'read_logs'; Bob       | roles that users have          |                             |
+|                                | (role: manager) can perform    |                                |                             |
+|                                | 'read_logs'; Eve (role:        |                                |                             |
+|                                | employee) cannot perform       |                                |                             |
+|                                | 'read_logs'                    |                                |                             |
++--------------------------------+--------------------------------+--------------------------------+-----------------------------+
+| Attribute-Based Access Control | Alice can access Financial     | Access decisions based on      | Fine-grained access control |
+|                                | Database; Bob cannot access    | attributes of users,           |                             |
+|                                | Financial Database; Eve cannot | resources, and environment     |                             |
+|                                | access Financial Database      |                                |                             |
++--------------------------------+--------------------------------+--------------------------------+-----------------------------+
