@@ -16,7 +16,11 @@ This Python script implements and visualizes the following access control concep
 For each concept, the script provides a textual demonstration and a graphical visualization to enhance understanding.
 
 ## Results
-Access Control
+
+### 1. Access Control Matrix
+![](https://github.com/ericyoc/access_control_demo_poc/blob/main/access_control_matrix.png)
+
+### 6. ABAC
 ![](https://github.com/ericyoc/access_control_demo_poc/blob/main/abac.png)
 
 ## Concepts Covered
