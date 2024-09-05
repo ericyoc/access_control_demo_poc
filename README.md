@@ -15,6 +15,10 @@ This Python script implements and visualizes the following access control concep
 
 For each concept, the script provides a textual demonstration and a graphical visualization to enhance understanding.
 
+## Results
+Access Control
+![](https://github.com/ericyoc/access_control_demo_poc/blob/main/abac.png)
+
 ## Concepts Covered
 
 1. **Access Control Matrix**: Defines access rights for subjects (users) to objects (files).
