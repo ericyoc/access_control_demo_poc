@@ -97,6 +97,9 @@ Understanding and implementing these concepts is fundamental to creating a robus
 
 Contributions to improve the code, visualizations, or documentation are welcome. Please feel free to submit a pull request or open an issue.
 
+## Disclaimer
+The reponsitory contents are for research and academic purposes only.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
