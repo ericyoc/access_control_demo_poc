@@ -18,10 +18,22 @@ For each concept, the script provides a textual demonstration and a graphical vi
 ## Results
 
 ### Access CONTROL TABLE
-[here](https://github.com/ericyoc/access_control_demo_poc/blob/main/access_control_table.txt)
+[Access Control Table](https://github.com/ericyoc/access_control_demo_poc/blob/main/access_control_table.txt)
 
 ### 1. Access Control Matrix
 ![](https://github.com/ericyoc/access_control_demo_poc/blob/main/access_control_matrix.png)
+
+### 2. Linux Access Control
+![](https://github.com/ericyoc/access_control_demo_poc/blob/main/linux_access_control.png)
+
+### 3. Principle of Least Privilege
+![](https://github.com/ericyoc/access_control_demo_poc/blob/main/principle_of_least_privilege.png)
+
+### 4. Sandboxing
+![](https://github.com/ericyoc/access_control_demo_poc/blob/main/sandboxing.png)
+
+### 5. RRAC
+![](https://github.com/ericyoc/access_control_demo_poc/blob/main/rbac.png)
 
 ### 6. ABAC
 ![](https://github.com/ericyoc/access_control_demo_poc/blob/main/abac.png)
