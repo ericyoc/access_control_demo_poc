@@ -35,7 +35,7 @@ For each concept, the script provides a textual demonstration and a graphical vi
 ### 4. Sandboxing
 ![](https://github.com/ericyoc/access_control_demo_poc/blob/main/sandboxing.png)
 
-### 5. RRAC
+### 5. RBAC
 ![](https://github.com/ericyoc/access_control_demo_poc/blob/main/rbac.png)
 
 ### 6. ABAC
